@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comptia/A+/2.1 Introduction to IP.md",
+                "file": "Comptia/A+/AIO book/Electrostatic Discharge (ESD).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.1 Introduction to IP"
+              "title": "Electrostatic Discharge (ESD)"
             }
           }
         ],
@@ -197,12 +197,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a92f8b2aa8e1a93",
+  "active": "4e8286d7dfebfffe",
   "lastOpenFiles": [
-    "Comptia/A+/1.3 Mobile Device Network.md",
-    "Comptia/A+/2.1 Introduction to IP.md",
-    "Comptia/A+/1.2 connecting mobile devices.md",
-    "Comptia/A+/1.1 Laptop Hardware.md",
+    "Comptia/A+/AIO book/Media",
+    "Comptia/A+/AIO book/Media/Technical toolkit.png",
+    "Comptia/A+/AIO book/Info.md",
+    "Comptia/A+/AIO book/Electrostatic Discharge (ESD).md",
+    "Comptia/A+/Professor Messer/1.1 Laptop Hardware.md",
+    "Comptia/A+/AIO book",
+    "Comptia/A+/Professor Messer/2.1 Introduction to IP.md",
+    "Comptia/A+/Professor Messer",
+    "Comptia/A+/Professor Messer/1.3 Mobile Device Network.md",
+    "Comptia/A+/Professor Messer/1.2 connecting mobile devices.md",
     "Unrealistic Roadmap.md",
     "templates/Untitled.md",
     "templates",
