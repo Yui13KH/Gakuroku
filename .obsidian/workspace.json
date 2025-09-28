@@ -4,53 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "fb9afdf7913fa0e8",
+        "id": "a08a8117efa4ea2e",
         "type": "tabs",
         "children": [
           {
-            "id": "d8fd5ec142f88edc",
+            "id": "48804b73ccbceac9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unrealistic Roadmap.md",
+                "file": "Highschool AO/Topics gathered from previous exams/Chemistry topics from  questions over years.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unrealistic Roadmap"
+              "title": "Chemistry topics from  questions over years"
             }
           },
           {
-            "id": "bd80c133e7ffd43d",
+            "id": "4cb58d69e23a34f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comptia/A+/1.3 Mobile Device Network.md",
+                "file": "Comptia/A+/burningtech/module 3 installing system devices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3 Mobile Device Network"
-            }
-          },
-          {
-            "id": "1a92f8b2aa8e1a93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comptia/A+/AIO book/Electrostatic Discharge (ESD).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Electrostatic Discharge (ESD)"
+              "title": "module 3 installing system devices"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,6 +175,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -197,22 +184,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e8286d7dfebfffe",
+  "active": "4cb58d69e23a34f6",
   "lastOpenFiles": [
-    "Comptia/A+/AIO book/Media",
+    "Pasted image 20250928182016.png",
+    "Highschool AO/Topics gathered from previous exams/Chemistry topics from  questions over years.md",
+    "Comptia/A+/burningtech/module 3 installing system devices.md",
+    "Comptia/A+/burningtech",
+    "Highschool AO/Topics gathered from previous exams/bio 1 topics from  questions over years.md",
+    "Highschool AO/Previous exams/2024 december 2nd sitting.pdf",
+    "Highschool AO/Previous exams/2024 december 1st sitting.pdf",
+    "Highschool AO/Topics gathered from previous exams/topics ranges.md",
+    "Highschool AO/Topics gathered from previous exams/turkish 2 topics from  questions over years.md",
+    "Highschool AO/Topics gathered from previous exams",
+    "Highschool AO/Previous exams/2025 march 3rd sitting.pdf",
+    "Highschool AO/Previous exams/2024 march 3rd.pdf",
+    "Highschool AO/Previous exams/2024 july 3rd.pdf",
+    "Highschool AO/Previous exams/2024 december 3rd sitting.pdf",
+    "Highschool AO/Topics gathered from previous exams/M.E.B. Açık Öğretim Lisesi ve Mesleki Açık Öğretim Lisesi.pdf",
+    "Highschool AO/Topics gathered from previous exams/turkish 1 topics from  questions over years.md",
+    "Highschool AO/Previous exams/2025 march 2nd sitting.pdf",
+    "Highschool AO/Topics gathered from previous exams/history 1 topics from  questions over years.md",
+    "Highschool AO/Topics gathered from previous exams/traffic 1 topics from  questions over years.md",
+    "Highschool AO/Topics gathered from previous exams/geography 2 topics from  questions over years.md",
+    "Highschool AO/Topics gathered from previous exams/bio 2 topics from  questions over years.md",
+    "README.md",
+    "chemistry questions.md",
+    "Comptia/A+/Professor Messer/2.1 Introduction to IP.md",
+    "media.md",
+    "Comptia/Media/port traffic.png",
+    "Comptia/A+/Professor Messer/1.3 Mobile Device Network.md",
+    "Comptia/A+/AIO book/Electrostatic Discharge (ESD).md",
     "Comptia/A+/AIO book/Media/Technical toolkit.png",
     "Comptia/A+/AIO book/Info.md",
-    "Comptia/A+/AIO book/Electrostatic Discharge (ESD).md",
     "Comptia/A+/Professor Messer/1.1 Laptop Hardware.md",
-    "Comptia/A+/AIO book",
-    "Comptia/A+/Professor Messer/2.1 Introduction to IP.md",
-    "Comptia/A+/Professor Messer",
-    "Comptia/A+/Professor Messer/1.3 Mobile Device Network.md",
     "Comptia/A+/Professor Messer/1.2 connecting mobile devices.md",
     "Unrealistic Roadmap.md",
-    "templates/Untitled.md",
-    "templates",
-    "Comptia/A+",
-    "Comptia"
+    "templates/Untitled.md"
   ]
 }
